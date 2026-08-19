@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://extensions-secretariat-outsourcing-lancaster.trycloudflare.com/vnc.html
+URL       : https://huntington-eligible-supervision-resource.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 01:30:50
+Created   : 2026-08-19 05:37:18
 =======================================================
