@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://compact-day-uncle-know.trycloudflare.com/vnc.html
+URL       : https://featured-boston-mic-hudson.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 05:37:44
+Created   : 2026-08-20 10:38:18
 =======================================================
