@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://aluminum-receiving-findarticles-institutions.trycloudflare.com/vnc.html
+URL       : https://franchise-roster-findings-medicaid.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-22 01:29:09
+Created   : 2026-08-22 05:33:48
 =======================================================
