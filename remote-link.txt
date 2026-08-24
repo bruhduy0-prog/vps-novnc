@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://comply-invitation-gaming-inventory.trycloudflare.com/vnc.html
+URL       : https://milton-covering-magical-accessibility.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-24 10:42:55
+Created   : 2026-08-24 15:46:15
 =======================================================
