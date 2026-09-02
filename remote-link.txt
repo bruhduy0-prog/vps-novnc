@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://candle-polls-activation-ranger.trycloudflare.com/vnc.html
+URL       : https://extract-eliminate-drive-detection.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-02 03:49:50
+Created   : 2026-09-02 09:25:21
 =======================================================
