@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://calibration-exp-great-truth.trycloudflare.com/vnc.html
+URL       : https://lower-air-guarantee-shown.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-03 14:18:22
+Created   : 2026-09-03 18:28:07
 =======================================================
