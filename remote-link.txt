@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cgi-patch-sizes-relevant.trycloudflare.com/vnc.html
+URL       : https://ing-due-journalist-variance.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-09 14:19:00
+Created   : 2026-09-09 18:27:10
 =======================================================
