@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sonic-cds-destination-register.trycloudflare.com/vnc.html
+URL       : https://pharmaceuticals-com-describe-home.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 04:15:07
+Created   : 2026-09-14 10:28:21
 =======================================================
