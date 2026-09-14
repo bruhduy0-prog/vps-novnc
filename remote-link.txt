@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cables-extensive-taste-partners.trycloudflare.com/vnc.html
+URL       : https://kingdom-europe-mercy-diet.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 19:48:51
+Created   : 2026-09-14 23:04:42
 =======================================================
