@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://imaging-improved-fair-pair.trycloudflare.com/vnc.html
+URL       : https://giving-willing-naval-charles.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 04:15:34
+Created   : 2026-09-16 09:48:35
 =======================================================
