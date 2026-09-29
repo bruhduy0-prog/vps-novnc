@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://collar-strikes-advantage-die.trycloudflare.com/vnc.html
+URL       : https://warcraft-gate-continuously-convenient.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-29 16:26:52
+Created   : 2026-09-29 23:35:46
 =======================================================
