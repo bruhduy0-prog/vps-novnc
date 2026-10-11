@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sociology-maintains-drilling-announce.trycloudflare.com/vnc.html
+URL       : https://gospel-wife-aberdeen-phys.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 23:23:04
+Created   : 2026-10-11 05:01:49
 =======================================================
