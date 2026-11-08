@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://diversity-builder-updated-bacon.trycloudflare.com/vnc.html
+URL       : https://boss-theory-collection-vitamins.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 05:22:32
+Created   : 2026-11-08 16:35:35
 =======================================================
